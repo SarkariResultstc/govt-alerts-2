@@ -162,5 +162,13 @@
   {
     "name": "SarkariResult.com.cm",
     "url": "https://sarkariresult.com.cm/"
+  },
+  {
+    "name": "BTSC (Bihar Technical Service)",
+    "url": "https://btsc.bihar.gov.in/"
+  },
+  {
+    "name": "BSPHCL (Bihar Power/Electricity Jobs)",
+    "url": "https://bsphcl.co.in/"
   }
 ]
