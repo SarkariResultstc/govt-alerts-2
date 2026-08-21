@@ -1,11 +1,5 @@
 [
   {
-    "site": "IIT Bombay",
-    "title": "Registration and Orientation for New Entrants 2026-2027",
-    "link": "https://acad.iitb.ac.in/registration-and-orientation",
-    "time_utc": "2026-08-17T18:06:41.586909+00:00"
-  },
-  {
     "site": "SarkariResult.com.cm",
     "title": "UPSSSC VDO 2023 Final Result",
     "link": "https://sarkariresult.com.cm/upsssc-vdo-2023/",
@@ -178,5 +172,11 @@
     "title": "Declaration Result for the post of Nursing Superintendent [on contract] [Date: 20 August 2026]",
     "link": "https://www.iitdh.ac.in/announcement",
     "time_utc": "2026-08-21T04:02:02.184019+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "NEET UG 2026 1st Round Allotment Result – Out",
+    "link": "https://sarkariresult.com.cm/nta-neet-ug-2026/",
+    "time_utc": "2026-08-21T05:59:29.472780+00:00"
   }
 ]
