@@ -1,17 +1,5 @@
 [
   {
-    "site": "NCERT",
-    "title": "Admission to the Diploma Course in Guidance and Counselling (DCGC) - 2026",
-    "link": "https://ncert.nic.in/dcgc.php?ln=en",
-    "time_utc": "2026-08-24T03:19:02.205184+00:00"
-  },
-  {
-    "site": "NCERT",
-    "title": "Diploma Course in Guidance and Counselling (DCGC) – 2024",
-    "link": "https://ncert.nic.in/dcgc.php",
-    "time_utc": "2026-08-24T03:19:02.881018+00:00"
-  },
-  {
     "site": "IIT Jodhpur",
     "title": "Provisional Shortlist and discipline-wise waitlists for ITEP Admissions 2026-27",
     "link": "https://www.iitj.ac.in/itep/en/admissions#shortlist_waitlist",
@@ -178,5 +166,17 @@
     "title": "UPTET Result 2026 – Declared",
     "link": "https://sarkariresult.com.cm/uptet-2026/",
     "time_utc": "2026-08-26T16:43:49.492176+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "UP SCVTUP ITI 1st Round Allotment Result 2026 – Out",
+    "link": "https://sarkariresult.com.cm/up-iti-2026/",
+    "time_utc": "2026-08-27T09:40:25.526111+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "RRB NTPC Graduate Level CBT-II Result 2026 – Out",
+    "link": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-2026/",
+    "time_utc": "2026-08-27T09:40:26.105911+00:00"
   }
 ]
