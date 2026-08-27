@@ -1,35 +1,5 @@
 [
   {
-    "site": "IIT Jodhpur",
-    "title": "Provisional Shortlist and discipline-wise waitlists for ITEP Admissions 2026-27",
-    "link": "https://www.iitj.ac.in/itep/en/admissions#shortlist_waitlist",
-    "time_utc": "2026-08-24T03:23:45.919851+00:00"
-  },
-  {
-    "site": "IIT Jodhpur",
-    "title": "List of Shortlisted Candidates for PhD AY 2025-26 SEMESTER-II (December 2025)",
-    "link": "https://www.iitj.ac.in/admission-postgraduate-programs/en/list-of-shortlisted-candidates",
-    "time_utc": "2026-08-24T03:23:46.602577+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "Allahabad University PGAT 2026 Online Counselling",
-    "link": "https://sarkariresult.com.cm/allahabad-university-pgat-2026/",
-    "time_utc": "2026-08-24T03:25:03.368675+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "Bihar ITI CAT Offline Mop-Up Counselling 2025",
-    "link": "https://sarkariresult.com.cm/bihar-iti-cat-2025-offline-mop-up-counselling-date-extended/",
-    "time_utc": "2026-08-24T03:25:04.036226+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "UP Polytechnic JEECUP Online Counseling 2025",
-    "link": "https://sarkariresult.com.cm/up-polytechnic-jeecup-online-counseling-2025/",
-    "time_utc": "2026-08-24T03:25:04.735222+00:00"
-  },
-  {
     "site": "National Board of Examinations",
     "title": "Regarding Non-Recovery of Stipend on Subsequent Upgradation in Round 2 of Counselling for NEET SS 2025 Candidates joined at NBEMS-Accredited Courses",
     "link": "https://www.natboard.edu.in/viewNotice.php?NBE=NnpZTjcwUmE4dC9MWWpxVm95alZ6QT09",
@@ -178,5 +148,35 @@
     "title": "RRB NTPC Graduate Level CBT-II Result 2026 – Out",
     "link": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-2026/",
     "time_utc": "2026-08-27T09:40:26.105911+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "RRB NTPC Graduate Level CBT-II Result / Score Card 2026 – Out",
+    "link": "https://sarkariresult.com.cm/rrb-ntpc-graduate-level-2026/",
+    "time_utc": "2026-08-27T20:04:39.693082+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "Bihar BTSC Staff Nurse Result / Cutoff 2026 – Out",
+    "link": "https://sarkariresult.com.cm/bihar-btsc-staff-nurse-2025/",
+    "time_utc": "2026-08-27T20:04:40.328877+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "UPSSSC Forest Guard / Wildlife Guard Eligibility Result 2026",
+    "link": "https://sarkariresult.com.cm/upsssc-forest-guard-wildlife-guard-2026/",
+    "time_utc": "2026-08-27T20:04:40.940127+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "UPSSSC Forensic Science Laboratory Eligibility Result 2026",
+    "link": "https://sarkariresult.com.cm/upsssc-fsl-2026/",
+    "time_utc": "2026-08-27T20:04:41.571610+00:00"
+  },
+  {
+    "site": "BTSC (Bihar Technical Service)",
+    "title": "Result for the Post of Staff Nurse under the Advt. No- 23/2025",
+    "link": "https://btsc.bihar.gov.in/node/1221",
+    "time_utc": "2026-08-27T20:04:52.190705+00:00"
   }
 ]
