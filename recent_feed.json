@@ -1,29 +1,5 @@
 [
   {
-    "site": "IIT (ISM) Dhanbad",
-    "title": "Corrigendum - Holiday List, 2026",
-    "link": "https://www.iitism.ac.in/storage/notice-documents/notice_6a9e42783fe201788756600.pdf",
-    "time_utc": "2026-09-07T06:09:35.680318+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "EMRS Teaching/ Non Teaching Tier-II Result 2026 – Updated",
-    "link": "https://sarkariresult.com.cm/emrs-teaching-non-teaching-2026/",
-    "time_utc": "2026-09-07T12:27:36.443217+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "BCECE Admission 2026 Mop-up Allotment Result",
-    "link": "https://sarkariresult.com.cm/bcece-admission-2026/",
-    "time_utc": "2026-09-07T12:27:36.934101+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "Rajasthan State Eligibility Test SET Admit Card 2026",
-    "link": "https://sarkariresult.com.cm/rajasthan-set-2026/",
-    "time_utc": "2026-09-07T12:27:37.437873+00:00"
-  },
-  {
     "site": "SarkariResult.com.cm",
     "title": "RPSC Statistical Officer Answer Key 2026 – Out",
     "link": "https://sarkariresult.com.cm/rpsc-statistical-officer-recruitment-2025-start/",
@@ -178,5 +154,29 @@
     "title": "NTA UGC NET June Re-Exam Answer Key 2026 – Out",
     "link": "https://sarkariresult.com.cm/nta-ugc-net-june-2025/",
     "time_utc": "2026-09-10T18:27:32.753120+00:00"
+  },
+  {
+    "site": "IIT Mandi",
+    "title": "SMME 2nd Round Admissions Final Result- List of Provisionally selected candidates for admission in PhD, MTech R and Dual Degree Programmes, August 2026",
+    "link": "http://iitmandi.ac.in/pdf/admissions/SMME_2nd_round_admissions_Final_Result.pdf",
+    "time_utc": "2026-09-11T05:58:39.420003+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "NTA UGC NET June Result / Score Card 2026",
+    "link": "https://sarkariresult.com.cm/nta-ugc-net-june-2025/",
+    "time_utc": "2026-09-11T05:59:18.491658+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "MPPSC Assistant Town Planner Admit Card 2026",
+    "link": "https://sarkariresult.com.cm/mppsc-assistant-town-planner-2026/",
+    "time_utc": "2026-09-11T05:59:19.131470+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "MPESB Krashi Vistar Adhikari Admit Card 2026",
+    "link": "https://sarkariresult.com.cm/mpesb-krashi-vistar-adhikari/",
+    "time_utc": "2026-09-11T05:59:19.809630+00:00"
   }
 ]
