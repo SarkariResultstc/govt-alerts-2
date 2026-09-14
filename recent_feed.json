@@ -1,11 +1,5 @@
 [
   {
-    "site": "BTSC (Bihar Technical Service)",
-    "title": "Raise Objection for Advt. No-24/2025 Tutor (Nursing) (Notice No. 2918)",
-    "link": "https://btsc.bihar.gov.in/node/1224",
-    "time_utc": "2026-09-09T06:43:31.279773+00:00"
-  },
-  {
     "site": "IIT Mandi",
     "title": "Result for the post of Junior Laboratory Assistant (Technical) in School of Computing & Electrical Engineering (SCEE)- Power System & Power Electronics vide Advt No. IIT Mandi/Recruit./NTS/2025/05 dated 17.12.2025.",
     "link": "http://iitmandi.ac.in/recruitment/Result_JLA_SCEE_Power_2025.pdf",
@@ -178,5 +172,11 @@
     "title": "SSC Selection Phase 14 Admit Card 2026 – Out",
     "link": "https://sarkariresult.com.cm/ssc-selection-phase-14-2026/",
     "time_utc": "2026-09-14T14:08:28.140329+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "Bihar Vidhan Parishad LDC / DEO Final Result 2026",
+    "link": "https://sarkariresult.com.cm/bihar-vidhan-parishad-pa-deo-ldc-steno-2026/",
+    "time_utc": "2026-09-14T19:22:48.193324+00:00"
   }
 ]
