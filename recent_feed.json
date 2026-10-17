@@ -1,11 +1,5 @@
 [
   {
-    "site": "IIT Goa",
-    "title": "Advertisement for Non-Teaching Staff (Advt. No.IITGoa/RECT/2026/05 dated 03.09.2026 )",
-    "link": "https://iitgoa.ac.in/non-teaching-position-regular/",
-    "time_utc": "2026-10-12T17:53:42.546867+00:00"
-  },
-  {
     "site": "SarkariResult.com.cm",
     "title": "SSC GD Constable Result 2026 – Out",
     "link": "https://sarkariresult.com.cm/ssc-gd-constable-2026/",
@@ -178,5 +172,11 @@
     "title": "Bihar STET Admit Card 2026",
     "link": "https://sarkariresult.com.cm/bihar-stet-2026/",
     "time_utc": "2026-10-17T09:16:52.819443+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "SBI Junior Associates Clerk Backlog Result 2026 – Out",
+    "link": "https://sarkariresult.com.cm/sbi-clerk-backlog-2026/",
+    "time_utc": "2026-10-17T18:41:01.205601+00:00"
   }
 ]
