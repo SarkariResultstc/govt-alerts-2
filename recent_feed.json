@@ -1,18 +1,6 @@
 [
   {
     "site": "SarkariResult.com.cm",
-    "title": "HPSC HCS Final Result 2026",
-    "link": "https://sarkariresult.com.cm/haryana-hpsc-hcs-2026/",
-    "time_utc": "2026-10-17T09:16:51.485748+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "UPSSSC PET Admit Card 2026 – Out",
-    "link": "https://sarkariresult.com.cm/upsssc-pet-2026/",
-    "time_utc": "2026-10-17T09:16:52.180246+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
     "title": "Bihar STET Admit Card 2026",
     "link": "https://sarkariresult.com.cm/bihar-stet-2026/",
     "time_utc": "2026-10-17T09:16:52.819443+00:00"
@@ -178,5 +166,17 @@
     "title": "UPSC CDS-II (Name Wise) Result 2026 – Out",
     "link": "https://sarkariresult.com.cm/upsc-cds-2-2026/",
     "time_utc": "2026-10-27T10:58:25.545852+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "UPSSSC Stenographer Skill Test Result 2026 – Out",
+    "link": "https://sarkariresult.com.cm/upsssc-stenographer-2026/",
+    "time_utc": "2026-10-27T16:15:53.015957+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "BPSC ASO Mains Result 2026",
+    "link": "https://sarkariresult.com.cm/bpsc-aso-mains-2026/",
+    "time_utc": "2026-10-27T16:15:53.528866+00:00"
   }
 ]
