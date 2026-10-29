@@ -1,17 +1,5 @@
 [
   {
-    "site": "IIT Palakkad",
-    "title": "Notification for MS by Research & PhD Admissions - January 2027",
-    "link": "https://www.iitpkd.ac.in/notifications/notification-ms-research-phd-admissions-january-2027",
-    "time_utc": "2026-10-21T07:35:48.728839+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "BSF HC RO / RM Admit Card 2026",
-    "link": "https://sarkariresult.com.cm/bsf-hc-ro-rm-2025/",
-    "time_utc": "2026-10-21T13:15:10.884264+00:00"
-  },
-  {
     "site": "IIT Mandi",
     "title": "Result for the post of Junior Laboratory Assistant (Technical) in the School of Mathematical & Statistical Sciences vide Advt No. IIT Mandi/Recruit./NTS/2025/05 dated 17.12.2025.",
     "link": "http://iitmandi.ac.in/recruitment/Result_JLA_SMSS.pdf",
@@ -178,5 +166,17 @@
     "title": "NVS Class 6 Admit Card 2026 – Out",
     "link": "https://sarkariresult.com.cm/nvs-class-6-2026/",
     "time_utc": "2026-10-28T17:25:56.614591+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "RPSC 2nd Grade Teacher Result 2026 – Updated",
+    "link": "https://sarkariresult.com.cm/rpsc-2nd-grade-teacher-2025/",
+    "time_utc": "2026-10-29T07:20:53.829128+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "NVS Class 6 Admit Card 2026",
+    "link": "https://sarkariresult.com.cm/nvs-class-6-2026/",
+    "time_utc": "2026-10-29T07:20:54.399485+00:00"
   }
 ]
