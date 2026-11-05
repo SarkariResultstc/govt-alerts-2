@@ -1,17 +1,5 @@
 [
   {
-    "site": "IIT Mandi",
-    "title": "Shortlisting Announcement for Ph.D. Admissions in Even Semester 2026-27 in the School of Chemical Sciences, IIT Mandi.",
-    "link": "http://iitmandi.ac.in/pdf/admissions/SCS_PHD_Shortlisting_Jan_2027.pdf",
-    "time_utc": "2026-10-29T14:33:11.213048+00:00"
-  },
-  {
-    "site": "SarkariResult.com.cm",
-    "title": "RSSB Driver Result 2026",
-    "link": "https://sarkariresult.com.cm/rssb-driver-2026/",
-    "time_utc": "2026-10-29T19:53:13.780467+00:00"
-  },
-  {
     "site": "SarkariResult.com.cm",
     "title": "SSC CPO SI PET / PST Result 2026 – Out",
     "link": "https://sarkariresult.com.cm/ssc-cpo-si-paper-i-2025/",
@@ -178,5 +166,17 @@
     "title": "RSSB Female Supervisor Result 2026",
     "link": "https://sarkariresult.com.cm/rssb-female-supervisor-2026/",
     "time_utc": "2026-11-05T05:52:02.074925+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "SSC JHT 2025 FRTA Result / Cutoff – Out",
+    "link": "https://sarkariresult.com.cm/ssc-chte-2025/",
+    "time_utc": "2026-11-05T13:36:05.558880+00:00"
+  },
+  {
+    "site": "SarkariResult.com.cm",
+    "title": "BPSC District Sports Officer DSO Result 2026",
+    "link": "https://sarkariresult.com.cm/bpsc-dso-2026/",
+    "time_utc": "2026-11-05T13:36:06.202211+00:00"
   }
 ]
